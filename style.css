@@ -66,7 +66,7 @@ img{
     body{
         background-size: 350%;
         background-repeat: repeat;
-        transform: translateY(10%);
+        transform: translateY(20%);
         font-size: 14px;
     }
     .click{
