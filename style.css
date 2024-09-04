@@ -63,10 +63,19 @@ img{
 }
 
 @media (max-width: 450px){
+    body{
+        background-size: 350%;
+        background-repeat: repeat;
+        transform: translateY(10%);
+        font-size: 14px;
+    }
     .click{
         width: 260px;
     }
-    body{
-        transform: translateY(10%);
+    i{
+        font-size: 2.5rem;
+    }
+    img{
+        height: 5em;
     }
 }
